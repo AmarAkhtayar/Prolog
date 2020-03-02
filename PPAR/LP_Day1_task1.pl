@@ -4,7 +4,7 @@ Assignment 1, Day 1
 
 ***/
 
-     #define the functor sits_right_of(X,Y)
+  
 	sits_right_of(katie_bell,parvati_patil).
 	sits_right_of(parvati_patil,lavender_brown).
 	sits_right_of(lavender_brown,neville_longbottom).
